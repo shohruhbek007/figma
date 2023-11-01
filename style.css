@@ -1,0 +1,19 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+/* .wrapper{
+max-width: 1440px;
+width: 100%;
+height: 100vh;
+background-color:red;
+} */
+.box{
+width: 200px;
+height: 200px;
+background-color: rebeccapurple;
+margin: 0 auto;
+overflow:  scroll;
+margin: 10px;
+}
